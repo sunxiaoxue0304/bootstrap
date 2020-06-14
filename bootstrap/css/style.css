@@ -1,0 +1,33 @@
+.container-fluid1 {
+    background-color: rgb(48, 48, 48);
+    height: 40px;
+    line-height: 40px;
+}
+
+span {
+    color: white;
+    padding-right: 10px;
+}
+
+.container-fluid2 {
+    background-color: #e0e0e0;
+    height: 80px;
+    line-height: 80px;
+    text-align: center;
+}
+
+#ziti {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.container-fluid3 {
+    background-image: url(../img/banner.jpg);
+    height: 440px;
+    color: white;
+}
+
+ul li {
+    text-decoration: none;
+    float: left;
+}
